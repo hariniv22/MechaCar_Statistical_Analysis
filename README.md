@@ -21,6 +21,7 @@ From the results the r-squared value is 0.71 which means there is a strong posit
 ## Summary Statistics on Suspension Coils
 
 As per total_summary statistics for all manufacturing lots,
+
 ![](Resources/total_summary.png)
 
 The variance of the suspension coils for all manufacturing lots is 62.29 which does not exceed 100 pounds per square inch as per design specifications so we can conclude that current manufacturing data for all lots meet the design specification.
